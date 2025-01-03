@@ -1,2 +1,2 @@
-# Striver-s-SDE-Sheet
-SDE Journey
+# Striver-s-A2Z-Sheet
+DSA Journey
